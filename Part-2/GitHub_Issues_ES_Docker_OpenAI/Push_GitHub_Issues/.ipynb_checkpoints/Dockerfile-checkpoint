@@ -1,0 +1,1 @@
+FROM nency3010/elasticsearch_vector:latest
